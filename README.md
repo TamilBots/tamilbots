@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: @TamilBots
 - ⚡ Fun fact: We Are A Professional Devolopers 😜
 -->
+
+
+**GitHub Stats ⚡**
+
+![Chart not found](https://github-readme-stats.vercel.app/api?username=TamilBots&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&custom_title=TamilBots%27s+GitHub+Stats)
